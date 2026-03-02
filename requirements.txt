@@ -1,0 +1,16 @@
+# Qwen3-TTS Dependencies for HuggingFace Spaces
+torch==2.8.0
+transformers==4.57.3
+accelerate==1.12.0
+einops
+gradio
+librosa
+torchaudio
+soundfile
+sox
+onnxruntime
+spaces
+numpy
+kernels
+openai-whisper
+opencc-python-reimplemented
