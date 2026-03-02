@@ -1,0 +1,2 @@
+# AudioCloneInZeroGPU
+在Huggingface的ZeroGPU上部署的声音克隆模型本项目，实时生成声音
